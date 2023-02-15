@@ -4,7 +4,7 @@ This project uses the ESP-32 microcontroller to give the TMS team the ability to
 
 The project is based on Blynk.
 
-Checkout the [Project Page].
+Check out the [Project Page].
 
 
 
